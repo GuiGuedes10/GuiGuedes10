@@ -52,11 +52,4 @@ Se você também gosta de inovação, desenvolvimento e boas conversas sobre ide
     height="200" 
     src="https://github-readme-stats.vercel.app/api?username=GuiGuedes10&show_icons=true&theme=default&include_all_commits=true&locale=pt-br&bg_color=ff0074&title_color=000000&text_color=FFFFFF&icon_color=000000" 
   />
-
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiGuedes10&theme=default&layout=compact&custom_title=Tecnologias&langs_count=9&bg_color=ff0074&title_color=000000&text_color=FFFFFF&icon_color=000000" 
-  />
 </p>
