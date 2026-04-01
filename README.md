@@ -69,3 +69,8 @@ Sou apaixonado por tecnologia e tudo que envolve criar, explorar e aprender cois
 
 -----
 
+### *Projeto*
+
+<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GuiGuedes10&repo=Trabalho_ordenacao
+&theme=dark" />
+
