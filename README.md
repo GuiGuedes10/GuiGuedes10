@@ -52,7 +52,7 @@ Sou apaixonado por tecnologia e tudo que envolve criar, explorar e aprender cois
 
 <div>
   <img src=https://github-readme-streak-stats.herokuapp.com/?user=GuiGuedes10&theme=dark>
-  <img src="https://metrics.lecoq.io/GuiGuedes10?template=classic&config.timezone=America%2FSao_Paulo" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GuiGuedes10&bg_color=1c1c1c&color=02D1F7&line=02D1F7&point=ffffff&area=true&hide_border=true" />
 </div>
 
 
