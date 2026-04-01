@@ -20,7 +20,7 @@ Sou apaixonado por tecnologia e tudo que envolve criar, explorar e aprender cois
 ### **🧠 Tecnologias & Ferramentas**
 
 \<div\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)" height="40" width="40" alt="JS" /\>
+\<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JS" /\>
 \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)" height="40" width="40" alt="TS" /\>
 \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)" height="40" width="40" alt="React" /\>
 \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)" height="40" width="40" alt="HTML5" /\>
