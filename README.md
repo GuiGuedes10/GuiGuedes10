@@ -16,7 +16,7 @@ Sou apaixonado por tecnologia e tudo que envolve criar, explorar e aprender cois
 
 -----
 
-### **🧠 Tecnologias & Ferramentas**
+### **Tecnologias & Ferramentas**
 
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,7 +29,26 @@ Sou apaixonado por tecnologia e tudo que envolve criar, explorar e aprender cois
 
 -----
 
-### **📊 Estatísticas**
+### *Formação*
+
+<table>
+<tr>
+<td width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Logo_PUC-Campinas.svg/960px-Logo_PUC-Campinas.svg.png" width="180" alt="Logo PUC-Campinas">
+</td>
+<td>
+<h4><strong>Pontifícia Universidade Católica de Campinas</strong></h4>
+<p>Análise e Desenvolvimento de Sistemas
+
+
+<em>2024 — 2027</em></p>
+</td>
+</tr>
+</table>
+
+-----
+
+### **Estatísticas**
 
 <div>
   <img src=https://github-readme-streak-stats.herokuapp.com/?user=GuiGuedes10&theme=dark>
@@ -37,7 +56,7 @@ Sou apaixonado por tecnologia e tudo que envolve criar, explorar e aprender cois
 
 -----
 
-### **🌐 Contato**
+### **Contato**
 
 <div>
   <a href="mailto:guiguedes0805@gmail.com">
