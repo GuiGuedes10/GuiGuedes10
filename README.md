@@ -1,4 +1,3 @@
-Aqui está uma versão otimizada do seu README. Foquei em melhorar a hierarquia visual, alinhar os ícones de tecnologias e corrigir o link das estatísticas usando o domínio alternativo para evitar o erro 503.
 
 -----
 
