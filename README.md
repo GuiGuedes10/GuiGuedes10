@@ -1,55 +1,52 @@
-## <strong>Guilherme Guedes 👻</strong>
+Aqui está uma versão otimizada do seu README. Foquei em melhorar a hierarquia visual, alinhar os ícones de tecnologias e corrigir o link das estatísticas usando o domínio alternativo para evitar o erro 503.
+
+-----
+
+# \#\# **Guilherme Guedes** 👻
 
 **`Desenvolvedor de Sistemas`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=10&color=02D1F7&random=false&width=435&lines=Carregando....;Carregando....;;Ol%C3%A1%2C+sou+Guilherme+Guedes!)](https://git.io/typing-svg)
+[](https://git.io/typing-svg)
 
----
+-----
 
-Olá, seja bem-vindo ao meu GitHub!
+### **Sobre mim**
 
-Sou apaixonado por tecnologia e tudo que envolve criar, explorar e aprender coisas novas. Desde cedo, descobri que minha curiosidade e criatividade me levavam sempre a buscar soluções diferentes, testar ideias e transformar problemas em oportunidades.
+Olá, seja bem-vindo ao meu GitHub\!
 
-Aqui você vai encontrar alguns dos meus projetos, estudos e experimentos. Gosto de colocar a mão na massa, aprender na prática e compartilhar o que descubro pelo caminho. Para mim, a tecnologia é uma forma de expressão e também uma ferramenta poderosa para impactar o mundo de forma positiva.
+Sou apaixonado por tecnologia e tudo que envolve criar, explorar e aprender coisas novas. Minha curiosidade me leva a buscar soluções criativas, transformando problemas em oportunidades através do código.
 
-Se você também gosta de inovação, desenvolvimento e boas conversas sobre ideias, sinta-se à vontade para explorar meu perfil ou entrar em contato.
+Aqui você encontrará meus projetos, estudos e experimentos. Acredito que a tecnologia é uma ferramenta poderosa para impactar o mundo de forma positiva e gosto de compartilhar cada descoberta dessa jornada.
 
----
+-----
 
-### 🌐 Contato
+### **🧠 Tecnologias & Ferramentas**
 
-<div>
-  <a href="mailto:guiguedes0805@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/guilherme-guedes-teixeira-620152324/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+\<div style="display: inline-block"\>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)" height="40" width="52" alt="javascript logo" /\>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)" height="40" width="52" alt="typescript logo" /\>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)" height="40" width="52" alt="react logo" /\>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)" height="40" width="52" alt="html5 logo" /\>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)" height="40" width="52" alt="css3 logo" /\>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)" height="40" width="52" alt="python logo" /\>
+\</div\>
 
----
+-----
 
-### 🧠 Tecnologias
+### **📊 Estatísticas**
 
-<div style="display: inline_block">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+\<div align="left"\>
+\<img height="180em" src="[https://github-readme-stats-one.vercel.app/api?username=GuiGuedes10\&show\_icons=true\&include\_all\_commits=true\&locale=pt-br\&bg\_color=1c1c1c\&title\_color=02D1F7\&text\_color=ffffff\&icon\_color=02D1F7](https://www.google.com/search?q=https://github-readme-stats-one.vercel.app/api%3Fusername%3DGuiGuedes10%26show_icons%3Dtrue%26include_all_commits%3Dtrue%26locale%3Dpt-br%26bg_color%3D1c1c1c%26title_color%3D02D1F7%26text_color%3Dffffff%26icon_color%3D02D1F7)" /\>
+\<img height="180em" src="[https://github-readme-stats-one.vercel.app/api/top-langs/?username=GuiGuedes10\&layout=compact\&langs\_count=7\&bg\_color=1c1c1c\&title\_color=02D1F7\&text\_color=ffffff\&locale=pt-br](https://www.google.com/search?q=https://github-readme-stats-one.vercel.app/api/top-langs/%3Fusername%3DGuiGuedes10%26layout%3Dcompact%26langs_count%3D7%26bg_color%3D1c1c1c%26title_color%3D02D1F7%26text_color%3Dffffff%26locale%3Dpt-br)" /\>
+\</div\>
 
-</div>
+-----
 
----
+### **🌐 Contato**
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=GuiGuedes10&show_icons=true&theme=default&include_all_commits=true&locale=pt-br&bg_color=ff0074&title_color=000000&text_color=FFFFFF&icon_color=000000" 
-  />
-</p>
+\<a href="mailto:guiguedes0805@gmail.com"\>
+\<img src="[https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge\&logo=gmail\&logoColor=white](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)"\>
+\</a\>
+\<a href="[https://www.linkedin.com/in/guilherme-guedes-teixeira-620152324/](https://www.linkedin.com/in/guilherme-guedes-teixeira-620152324/)" target="\_blank"\>
+\<img src="[https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge\&logo=linkedin\&logoColor=white](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)"\>
+\</a\>
